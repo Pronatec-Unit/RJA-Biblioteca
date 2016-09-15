@@ -11,7 +11,7 @@ Data | Atividade
 ------------ | -------------
 08/09 | Entrega do wireframe (Telas)
 14/09 | Reunião do Grupo
-20/09 | Descrever atividade
+15/09 | Reorganização e Discurssão Sobre o Wirefrime
 20/09 | Descrever atividade
 20/09 | Descrever atividade
 20/09 | Descrever atividade
