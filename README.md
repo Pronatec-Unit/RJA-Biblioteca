@@ -12,7 +12,7 @@ Data | Atividade
 08/09 | Entrega do wireframe (Telas)
 14/09 | Reunião do Grupo
 15/09 | Reorganização e Discurssão Sobre o Wirefrime
-20/09 | Descrever atividade
+22/09 | Estudo sobre o assunto do seminário
 20/09 | Descrever atividade
 20/09 | Descrever atividade
 
