@@ -14,6 +14,6 @@ Data | Atividade
 15/09 | Reorganização e Discurssão Sobre o Wirefrime
 22/09 | Estudo sobre o assunto do seminário
 26/09 | Discussão sobre o assunto referente ao seminário
-20/09 | Descrever atividade
+28/09 | Organização das telas no Android Stúdio
 
 
