@@ -15,5 +15,6 @@ Data | Atividade
 22/09 | Estudo sobre o assunto do seminário
 26/09 | Discussão sobre o assunto referente ao seminário
 28/09 | Organização das telas no Android Stúdio
+04/10 | Reunião do grupo para montar a telas no Android Studio
 
 
