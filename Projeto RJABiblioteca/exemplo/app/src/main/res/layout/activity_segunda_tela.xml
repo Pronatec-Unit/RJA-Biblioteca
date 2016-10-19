@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@android:color/black"
+    android:id="@+id/activity_segunda_tela">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/botefI"
+        android:layout_marginTop="51dp"
+        android:minHeight="40dp"
+        android:minWidth="300dp"
+        android:background="@android:color/white"
+        android:text="ENSINO FUNDAMENTAL I"
+        android:textSize="25dp"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/extractEditText"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/botefII"
+        android:minHeight="40dp"
+        android:minWidth="300dp"
+        android:background="@android:color/white"
+        android:text="ENSINO FUNDAMENTAL II"
+        android:textSize="25dp"
+        android:textAlignment="center"
+        android:layout_below="@+id/botefI"
+        android:layout_alignStart="@+id/botefI"
+        android:layout_marginTop="56dp"
+        android:textColor="@android:color/black"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/botem"
+        android:minHeight="40dp"
+        android:minWidth="300dp"
+        android:background="@android:color/white"
+        android:text="ENSINO MÉDIO"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:layout_marginTop="56dp"
+        android:layout_below="@+id/botefII"
+        android:layout_alignStart="@+id/botefII"
+        android:textColor="@android:color/black"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/botrom"
+        android:minHeight="40dp"
+        android:minWidth="300dp"
+        android:background="@android:color/white"
+        android:text="ROMANCES"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:layout_below="@+id/botem"
+        android:layout_alignStart="@+id/botem"
+        android:layout_marginTop="59dp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="RJA Bibliotecas"
+    android:id="@+id/extractEditText"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentEnd="true"
+    android:background="@android:color/background_light"
+    android:textColor="@android:color/black"
+    android:textAlignment="center"
+    android:textSize="30dp"
+    android:maxHeight="30dp" />
+
+</RelativeLayout>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@android:color/black">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RJA Bibliotecas"
+        android:id="@+id/extractEditText"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:background="@android:color/background_light"
+        android:textColor="@android:color/black"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:maxHeight="30dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Português"
+        android:id="@+id/button6"
+        android:layout_marginTop="72dp"
+        android:textSize="25dp"
+        android:textColor="@android:color/black"
+        android:background="@android:color/background_light"
+        android:textAlignment="center"
+        android:layout_below="@+id/extractEditText"
+        android:layout_centerHorizontal="true"
+        android:minHeight="30dp"
+        android:minWidth="300dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Matemática"
+        android:id="@+id/button7"
+        android:layout_marginTop="26dp"
+        android:textSize="25dp"
+        android:textColor="@android:color/black"
+        android:background="@android:color/background_light"
+        android:textAlignment="center"
+        android:minHeight="30dp"
+        android:minWidth="300dp"
+        android:layout_below="@+id/button6"
+        android:layout_alignStart="@+id/button6" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="História"
+        android:id="@+id/button8"
+        android:textSize="25dp"
+        android:textColor="@android:color/black"
+        android:background="@android:color/background_light"
+        android:textAlignment="center"
+        android:minHeight="30dp"
+        android:minWidth="300dp"
+        android:layout_below="@+id/button7"
+        android:layout_alignStart="@+id/button7"
+        android:layout_marginTop="28dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ciências"
+        android:id="@+id/button9"
+        android:layout_marginTop="25dp"
+        android:textSize="25dp"
+        android:textColor="@android:color/black"
+        android:background="@android:color/background_light"
+        android:textAlignment="center"
+        android:minHeight="30dp"
+        android:minWidth="300dp"
+        android:layout_below="@+id/button8"
+        android:layout_alignStart="@+id/button8" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Línguas Estrangeiras"
+        android:id="@+id/button10"
+        android:layout_marginTop="25dp"
+        android:textSize="25dp"
+        android:textColor="@android:color/black"
+        android:background="@android:color/background_light"
+        android:textAlignment="center"
+        android:minHeight="30dp"
+        android:minWidth="300dp"
+        android:layout_below="@+id/button9"
+        android:layout_alignStart="@+id/button9" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Geografia"
+        android:id="@+id/button11"
+        android:layout_marginTop="27dp"
+        android:textSize="25dp"
+        android:textColor="@android:color/black"
+        android:background="@android:color/background_light"
+        android:textAlignment="center"
+        android:minHeight="30dp"
+        android:minWidth="300dp"
+        android:layout_below="@+id/button10"
+        android:layout_alignStart="@+id/button10" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ensino Fundamental I"
+        android:id="@+id/textView5"
+        android:layout_below="@+id/extractEditText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+        android:textColor="@android:color/white"
+        android:textSize="20dp" />
+
+</RelativeLayout>
