@@ -18,6 +18,7 @@ Data | Atividade
 04/10 | Reunião do grupo para montar a telas no Android Studio
 19/10 | Desenvolvimento do código das funções no aplicativo
 19/10 | Entrega da primeira parte do aplicativo
+13/11 | Complemento das telas no Android Studio
 
 
 
