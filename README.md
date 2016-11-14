@@ -19,6 +19,7 @@ Data | Atividade
 19/10 | Desenvolvimento do código das funções no aplicativo
 19/10 | Entrega da primeira parte do aplicativo
 13/11 | Complemento das telas no Android Studio
+14/11 | Implementação do Firebase no projeto
 
 
 
