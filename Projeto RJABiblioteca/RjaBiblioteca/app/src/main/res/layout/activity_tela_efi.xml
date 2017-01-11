@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a4802.rjabiblioteca.TelaEFI"
+    android:background="@drawable/fnd"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ensino Fundamental I"
+        android:id="@+id/textView2"
+        android:layout_marginTop="70dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="20dp"
+        android:textStyle="bold|italic"
+        android:textColor="#000000" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Português"
+        android:id="@+id/portefi"
+        android:textStyle="bold|italic"
+        android:textColor="#000000"
+        android:background="#ffffff"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Matemática"
+        android:id="@+id/matefi"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold|italic"
+        android:textColor="#000000"
+        android:background="#ffffff"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ciências"
+        android:id="@+id/cieefi"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold|italic"
+        android:textColor="#000000"
+        android:background="#ffffff"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="História"
+        android:id="@+id/hisefi"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold|italic"
+        android:textColor="#000000"
+        android:background="#ffffff"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Língua Estrangeiras"
+        android:id="@+id/lseefi"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold|italic"
+        android:textColor="#000000"
+        android:background="#ffffff"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Geografia"
+        android:id="@+id/geoefi"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold|italic"
+        android:textColor="#000000"
+        android:background="#ffffff"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp" />
+</LinearLayout>
